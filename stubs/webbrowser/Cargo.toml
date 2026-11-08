@@ -1,0 +1,9 @@
+[package]
+name = "webbrowser"
+version = "1.2.5"
+edition = "2021"
+description = "Stub: the program never opens a web browser or starts other programs"
+publish = false
+
+[lib]
+path = "lib.rs"
